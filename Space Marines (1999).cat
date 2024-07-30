@@ -8091,7 +8091,7 @@ Add +1 to the Space Marine combat resolution socre of any assault that takes pla
             </modifier>
             <modifier type="set" field="hidden" value="true">
               <conditions>
-                <condition field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="6c91-d214-036a-50a2" type="notInstanceOf"/>
+                <condition field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="85d1-4830-4395-7670" type="notInstanceOf"/>
               </conditions>
             </modifier>
           </modifiers>
@@ -8114,7 +8114,7 @@ Add +1 to the Space Marine combat resolution socre of any assault that takes pla
             </modifier>
             <modifier type="set" field="hidden" value="true">
               <conditions>
-                <condition field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="6c91-d214-036a-50a2" type="notInstanceOf"/>
+                <condition field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="85d1-4830-4395-7670" type="notInstanceOf"/>
               </conditions>
             </modifier>
           </modifiers>
@@ -8137,7 +8137,7 @@ Add +1 to the Space Marine combat resolution socre of any assault that takes pla
             </modifier>
             <modifier type="set" field="hidden" value="true">
               <conditions>
-                <condition field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="6c91-d214-036a-50a2" type="notInstanceOf"/>
+                <condition field="selections" scope="parent" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="85d1-4830-4395-7670" type="notInstanceOf"/>
               </conditions>
             </modifier>
           </modifiers>
