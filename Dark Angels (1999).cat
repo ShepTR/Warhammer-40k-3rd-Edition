@@ -2045,9 +2045,7 @@
         <selectionEntry id="6ae1-7b44-9fdf-8f46" name="Terminator Sergeant" hidden="false" collective="false" import="true" type="model">
           <comment>Points lowered in CA:2003</comment>
           <constraints>
-            <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7745-bd78-5792-9397" type="min"/>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0f1b-b294-d330-e96c" type="max"/>
-            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ee0a-3215-81bc-490a"/>
           </constraints>
           <infoLinks>
             <infoLink id="506c-40e1-7c73-bd87" name="Power Weapon" hidden="false" targetId="5774-7187-2616-dd8a" type="profile"/>
@@ -2063,9 +2061,6 @@
           <costs>
             <cost name="pts" typeId="4ed5-2f92-9abc-2870" value="47"/>
           </costs>
-          <modifiers>
-            <modifier type="decrement" value="1" field="ee0a-3215-81bc-490a"/>
-          </modifiers>
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
