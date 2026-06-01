@@ -1278,6 +1278,9 @@
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7200-7358-c5af-d1e9" type="max"/>
           </constraints>
+          <entryLinks>
+            <entryLink id="d3e4-f5a6-b7c8-d9e0" name="Space Marine Armory" hidden="false" collective="false" import="true" targetId="bfc9-22b8-1379-3112" type="selectionEntryGroup"/>
+          </entryLinks>
           <costs>
             <cost name="pts" typeId="4ed5-2f92-9abc-2870" value="15"/>
           </costs>
@@ -1415,17 +1418,6 @@
                   </modifiers>
                 </infoLink>
               </infoLinks>
-              <entryLinks>
-                <entryLink id="eeba-5237-127f-e2d0" name="Space Marine Armory" hidden="false" collective="false" import="true" targetId="bfc9-22b8-1379-3112" type="selectionEntryGroup">
-                  <modifiers>
-                    <modifier type="set" field="hidden" value="true">
-                      <conditions>
-                        <condition field="selections" scope="ancestor" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="6004-a925-4f19-f3b0" type="equalTo"/>
-                      </conditions>
-                    </modifier>
-                  </modifiers>
-                </entryLink>
-              </entryLinks>
               <costs>
                 <cost name="pts" typeId="4ed5-2f92-9abc-2870" value="40"/>
               </costs>
@@ -2296,6 +2288,9 @@
           <constraints>
             <constraint field="selections" scope="parent" value="1" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b54f-da26-0860-06e7" type="max"/>
           </constraints>
+          <entryLinks>
+            <entryLink id="c5d6-e7f8-a9b0-c1d2" name="Space Marine Armory" hidden="false" collective="false" import="true" targetId="bfc9-22b8-1379-3112" type="selectionEntryGroup"/>
+          </entryLinks>
           <costs>
             <cost name="pts" typeId="4ed5-2f92-9abc-2870" value="15"/>
           </costs>
@@ -2429,17 +2424,6 @@
                   </modifiers>
                 </infoLink>
               </infoLinks>
-              <entryLinks>
-                <entryLink id="69b7-6746-abf1-749d" name="Space Marine Armory" hidden="false" collective="false" import="true" targetId="bfc9-22b8-1379-3112" type="selectionEntryGroup">
-                  <modifiers>
-                    <modifier type="set" field="hidden" value="true">
-                      <conditions>
-                        <condition field="selections" scope="ancestor" value="0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="6278-8b7e-7326-ae29" type="equalTo"/>
-                      </conditions>
-                    </modifier>
-                  </modifiers>
-                </entryLink>
-              </entryLinks>
               <costs>
                 <cost name="pts" typeId="4ed5-2f92-9abc-2870" value="40"/>
               </costs>
